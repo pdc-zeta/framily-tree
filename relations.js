@@ -10,8 +10,8 @@ var brothers = [
     "graduated": true
   },
   {
-    "name": "Robert Terzoli",
-    "big": "Berek Waldman",
+    "name": "Berek Waldman",
+    "big": "Will Ikerd",
     "graduated": true
   },
   {
