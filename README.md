@@ -3,10 +3,10 @@
 [![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fnfischer%2Fframily-tree%2Fbadge%3Fref%3Dmain&style=flat-square)](https://actions-badge.atrox.dev/nfischer/framily-tree/goto?ref=main)
 [![Try online](https://img.shields.io/badge/try_it-online!-yellow.svg?style=flat-square)](https://nfischer.github.io/framily-tree)
 
-Check it out [online](https://nfischer.github.io/framily-tree).
+Check it out [online](https://pdc-zeta.github.io/framily-tree).
 
 See the data in the [Google
-Spreadsheet](https://docs.google.com/spreadsheets/d/1h6dVJKtETWX3Kr9PT6EaLu0gGavdi8Gnj4IlX155pfY/edit?usp=sharing).
+Spreadsheet](LINK).
 
 ## What is this?
 
