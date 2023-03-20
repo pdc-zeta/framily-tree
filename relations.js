@@ -5,12 +5,12 @@ var brothers = [
     "familystarted": "Saints"
   },
   {
-    "name": "Berek Waldman",
+    "name": "Berek Waldman TEST",
     "big": "Jack W.",
     "graduated": true
   },
   {
-    "name": "Berek Waldman",
+    "name": "Berek Waldman TEST",
     "big": "Will Ikerd",
     "graduated": true
   },
@@ -219,13 +219,13 @@ var brothers = [
   },
   {
     "name": "Chris Alley",
-    "big": "Berek Waldman",
+    "big": "Berek Waldman TEST",
     "pledgeclass": "Fall 2010",
     "graduated": true
   },
   {
     "name": "Andy Liu",
-    "big": "Berek Waldman",
+    "big": "Berek Waldman TEST",
     "pledgeclass": "Fall 2010",
     "graduated": true
   },
